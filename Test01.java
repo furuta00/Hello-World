@@ -13,6 +13,6 @@ public class Test01{
 		System.out.println("2016");
 		
 		//”N—î‚ð•\Ž¦‚µ‚Ü‚·
-		System.out.println("30");
+		System.out.println("26");
 	}
 }
