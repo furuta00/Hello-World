@@ -2,7 +2,7 @@
   Date:2015/04/02
   Comment:•¶Žš‚Ì•\Ž¦ */
   
-public cla
+public class Test01{
 	
 	public static void main(String[] args){
 		
@@ -13,6 +13,6 @@ public cla
 		System.out.println("2016");
 		
 		//”N—î‚ð•\Ž¦‚µ‚Ü‚·
-		System.out.prfintln("26");sdfasd
+		System.out.println("26");
 	}
 }
