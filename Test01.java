@@ -2,7 +2,7 @@
   Date:2015/04/02
   Comment:•¶Žš‚Ì•\Ž¦ */
   
-public class Test01{
+public cla
 	
 	public static void main(String[] args){
 		
