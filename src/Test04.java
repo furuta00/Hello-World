@@ -1,8 +1,8 @@
-/*Class:Test03
+/*Class:Test04
   Date:2015/04/02
   Comment:”’l‚Ì•\¦‚ÆŒvZ */
   
-public class Test03{
+public class Test04{
 	
 	public static void main(String[] args){
 		
